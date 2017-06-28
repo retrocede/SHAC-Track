@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/retrocede/SHAC-Track/tree/master.svg?style=svg)](https://circleci.com/gh/retrocede/SHAC-Track/tree/master)
+
 # shac-track
 
 > Schedule, Health, Activity, and Consumption Tracker
