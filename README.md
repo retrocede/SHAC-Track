@@ -1,4 +1,11 @@
-[![CircleCI](https://circleci.com/gh/retrocede/SHAC-Track/tree/master.svg?style=svg)](https://circleci.com/gh/retrocede/SHAC-Track/tree/master)
+<div style="text-align: center">
+	<a href="https://codecov.io/gh/spyfu/spyfu/branch/next">
+    	<img alt="Test coverage" src="https://codecov.io/gh/retrocede/SHAC-Track/branch/master/graphs/icicle.svg?token=BcYkPeMdJv" />
+    </a>
+</div>
+
+[![CircleCI](https://circleci.com/gh/retrocede/SHAC-Track/tree/master.svg?style=svg)](https://circleci.com/gh/retrocede/SHAC-Track/tree/master) [![codecov](https://codecov.io/gh/retrocede/SHAC-Track/branch/master/graph/badge.svg)](https://codecov.io/gh/retrocede/SHAC-Track)
+
 
 # shac-track
 
