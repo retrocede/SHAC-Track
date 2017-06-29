@@ -13,3 +13,5 @@ dependencies:
 test:
   override:
     - yarn run unit
+  post:
+    - bash <(curl -s https://codecov.io/bash) -t 5d8151ea-1e1d-42e2-8252-206f1bca28c3
